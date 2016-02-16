@@ -4,13 +4,20 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/NACIS2015.jpg" title="NACIS 2015" class="profile">
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+he Penn State GIS Coalition is an organization that offers students majoring, minoring, or sharing an interest in GIS opportunities to develop supplementary knowledge and skills necessary to succeed in the professional GIS industry.
+Membership benefits include: 
+Being involved and taking leadership positions
+Academic success strategies and tutoring
+Regional and national conference participation
+Community service and awareness programs
+Learning new technical skills
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+The GIS Coalition is open to any Penn State student that is interested in geospatial technology. The applications of GIS range several disciplines: geography, meteorology, landscape architecture, energy business finance, business, health and more.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+The organization also aims to provide students with opportunities to network with professionals and recent grads, and to develop their GIS skillset.
+
 
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com
