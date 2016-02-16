@@ -6,7 +6,7 @@ permalink: /about/
 
 <img src="{{ site.baseurl }}/assets/NACIS2015.jpg" title="NACIS 2015" class="profile">
 
-he Penn State GIS Coalition is an organization that offers students majoring, minoring, or sharing an interest in GIS opportunities to develop supplementary knowledge and skills necessary to succeed in the professional GIS industry.
+The Penn State GIS Coalition is an organization that offers students majoring, minoring, or sharing an interest in GIS opportunities to develop supplementary knowledge and skills necessary to succeed in the professional GIS industry.
 Membership benefits include: 
 Being involved and taking leadership positions
 Academic success strategies and tutoring
