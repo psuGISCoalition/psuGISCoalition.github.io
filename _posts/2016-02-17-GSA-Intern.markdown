@@ -5,7 +5,7 @@ date:   2016-02-17 08:43:59
 author: Marissa Defratti
 categories: Internship
 tags: internship geology summer
-cover: "/assets/GSA.jpeg"
+cover: "/assets/GSA.jpg"
 ---
 
 This is just a dummy post. Lorem ipsum and all the rest.
