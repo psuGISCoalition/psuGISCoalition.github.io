@@ -5,7 +5,7 @@ date:   2016-02-17 08:43:59
 author: Marissa Defratti
 categories: Internship
 tags: peace corp internship
-cover: "https://travisinmalawi.files.wordpress.com/2012/09/dsc072331.jpg"
+cover: "/assets/peacecorp.png"
 ---
 
 This is just a dummy post. Lorem ipsum and all the rest.
@@ -16,3 +16,10 @@ quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+
+
+
+
+[Peace Corps Internship]: https://docs.google.com/document/d/1eginbe2GjVAWj71EAqoxgvqna4FvIuF_otGVF60vRWI/edit
