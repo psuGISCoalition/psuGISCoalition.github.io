@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Avazea: Summer of Maps"
+title: 
 date:   2016-02-17 08:43:59
 author: Marissa Defratti
 categories: Internship
