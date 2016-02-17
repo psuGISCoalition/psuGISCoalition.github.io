@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Dummy Post 4"
-date:   2015-04-18 08:43:59
-author: Ben Centra
-categories: Dummy
-tags: ipsum
+title:  "Peace Corps Humanitarian Mapping"
+date:   2016-02-17 08:43:59
+author: Marissa Defratti
+categories: Internship
+tags: peace corp internship
+cover: "https://travisinmalawi.files.wordpress.com/2012/09/dsc072331.jpg"
 ---
 
 This is just a dummy post. Lorem ipsum and all the rest.
