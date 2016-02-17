@@ -3,7 +3,7 @@ layout: post
 title:  "Avazea: Summer of Maps"
 date:   2016-02-17 08:43:59
 author: Marissa Defratti
-categories: internship
+categories: Internship
 tags: internship, summer, Azavea, Summer of Maps
 cover:  "/assets/azavea.png"
 ---
