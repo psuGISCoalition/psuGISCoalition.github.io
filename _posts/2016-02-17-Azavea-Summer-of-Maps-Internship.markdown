@@ -13,7 +13,7 @@ In the past students have worked on projects in: arts & culture, community & eco
 Check out some [projects from 2015][2015 Projects]
 
 
-Important Dates
+Important Dates:
 
 February 19, 2016: Student application opens
 
