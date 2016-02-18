@@ -2,7 +2,6 @@
 layout: post
 title:  "Peace Corps Humanitarian Mapping"
 date:   2016-02-17 08:43:59
-author: Marissa Defratti
 categories: Internship
 tags: peace corp internship
 cover: "/assets/peacecorp.png"
