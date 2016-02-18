@@ -4,7 +4,6 @@ title:  "Understanding Food-Energy-Water Effect on Women through GIS -Department
 date:   2016-02-17 08:43:59
 categories: Internship
 tags: internship oak ridge DOE energy women food water
-cover:  "/assets/instacode.png"
 ---
 
 [Understanding the Food-Energy-Water Nexus’ Effect on Women through GIS][official link]
