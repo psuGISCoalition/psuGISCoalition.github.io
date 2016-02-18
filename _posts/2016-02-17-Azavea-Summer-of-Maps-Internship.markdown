@@ -2,7 +2,6 @@
 layout: post
 title: "Azavea Summer of Maps Internship"
 date:   2016-02-17 08:43:59
-author: "  "
 categories: Internship
 tags: internship summer Azavea Summer of Maps
 cover:  "/assets/azavea.png"
@@ -14,6 +13,7 @@ In the past students have worked on projects in: arts & culture, community & eco
 Check out some [projects from 2015][2015 Projects]
 
 Important Dates
+
 February 19 2016: Student application opens
 March 6 2016: Student application closes
 March 1, 2106: Accounce student fellow and organizations
