@@ -45,3 +45,5 @@ will be considered.
 For more details, see 
 [Terrasim Penn State flyer][Terrasim PennState]or[Terrasim Inc.][Terrasim]
 
+[Terrasim PennState]:http://www.terrasim.com/careers/PennState_handout_GIS.pdf
+[Terrasim]:http://www.terrasim.com/
