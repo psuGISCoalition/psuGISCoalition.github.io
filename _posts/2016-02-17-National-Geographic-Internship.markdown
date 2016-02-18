@@ -2,7 +2,6 @@
 layout: post
 title:  "National Geographic Internship"
 date:   2016-02-17 08:43:59
-author: Marissa Defratti
 categories: Internship
 tags: internship, summer, fall, national-geographic
 cover:  "/assets/natgeo.png"
