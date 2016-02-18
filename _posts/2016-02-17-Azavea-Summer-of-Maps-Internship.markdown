@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 
+title: "   "
 date:   2016-02-17 08:43:59
 author: Marissa Defratti
 categories: Internship
-tags: internship, summer, Azavea, Summer of Maps
+tags: internship summer Azavea Summer of Maps
 cover:  "/assets/azavea.png"
 ---
 
@@ -14,11 +14,10 @@ In the past students have worked on projects in: arts & culture, community & eco
 Check out some [projects from 2015][2015 Projects]
 
 Important Dates:
-
-    February 19, 2016: Student application opens
-    March 9, 2016: Student application closes
-    May 1, 2016: Announce Student Fellows and Organizations
-    June 1, 2016: Fellowships start
+February 19, 2016: Student application opens
+March 9, 2016: Student application closes
+May 1, 2016: Announce Student Fellows and Organizations
+June 1, 2016: Fellowships start
     
     
 
