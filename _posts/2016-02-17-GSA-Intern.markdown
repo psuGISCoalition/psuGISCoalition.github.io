@@ -2,7 +2,6 @@
 layout: post
 title:  "GeoCorp America Internship"
 date:   2016-02-17 08:43:59
-author: Marissa Defratti
 categories: Internship
 tags: internship geology summer
 cover: "/assets/GSA.jpg"
