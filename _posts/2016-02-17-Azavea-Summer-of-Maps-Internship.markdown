@@ -13,7 +13,7 @@ cover:  "/assets/azavea.png"
 In the past students have worked on projects in: arts & culture, community & economic development, electons & civil rights, environment, sustainability & ecosystems, public health & food, pubic safety and transportation.
 Check out some [projects from 2015][2015 Projects]
 
-Important Dates:
+Important Dates
 February 19 2016: Student application opens
 March 6 2016: Student application closes
 March 1, 2106: Accounce student fellow and organizations
