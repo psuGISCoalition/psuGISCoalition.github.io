@@ -19,7 +19,7 @@ description: >
 baseurl: "/psugiscoalition.github.io" # the subpath of your site, e.g. /blog/
 url: "http://psugiscoalition.github.io/" # the base hostname & protocol for your site
 cover: "/assets/home-bg.jpg"
-logo: "/assets/logo.png" + "Home"
+logo: "/assets/logo.png"
 background-image: "/assets/watercolor.png"
 
 # Build settings
